@@ -1,0 +1,3 @@
+* MS-CHAP authentication
+-- correct raderl to correctly interpret MS-CHAP2-Response packets
+-- compose correct response packets
